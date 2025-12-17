@@ -1,0 +1,29 @@
+# Сборка
+build/
+*.o
+*.so
+*.a
+oop_laba7
+*.exe
+
+# Логи
+*.log
+log.txt
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+cmake-build-*/
+
+# Тесты
+test*.txt
+run_tests
+questions.txt
+run_tests
